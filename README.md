@@ -1,7 +1,7 @@
  # 😊Hello! Welcome to my Github profile.
 ## My name is Yasmin and my nickname is "yassss123"!
 **yassss123/yassss123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div class="tenor-gif-embed" data-postid="22257481" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/hi-hello-gif-22257481">Hi Hello GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 A little myself:
 
 - 🔭 I’m currently studying in Professor Narciso Mendes school...
@@ -13,4 +13,3 @@ A little myself:
 ##Tool and Technology:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 
-![Snake animation](https://github.com/yassss123/yassss123/blob/output/github-contribution-grid-snake.svg)
