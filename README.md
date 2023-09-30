@@ -11,4 +11,5 @@ A little myself:
 <a href = "mailto:goncalvesyasmin770@gamil.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> ...
 
 ##Tool and Technology:
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
