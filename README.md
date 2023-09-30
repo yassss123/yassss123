@@ -10,5 +10,5 @@ A little myself:
 - 📫 How to reach me: <a href="https://instagram.com/yas_eidel" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:goncalvesyasmin770@gamil.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> ...
 
-## Ferramenta e Tecnologia:
+##Tool and Technology:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
